@@ -1,45 +1,46 @@
-Counter App:
+# React Mini-Projects
 
-Create a simple counter app that allows users to increment, decrement, and reset a counter.
-Color Palette Generator:
+## 1. Counter App
+- Simple counter app that allows users to increment, decrement, and reset a counter.
 
-Build an app that displays a color palette using an array of color values passed as props.
-Toggle Switch:
+## 2. Color Palette Generator
+- App that displays a color palette using an array of color values passed as props.
 
-Design a toggle switch component that changes its state when clicked, and display its state.
-Random Quote Generator:
+## 3. Toggle Switch
+- Toggle switch component that changes its state when clicked, and displays its state.
 
-Fetch quotes from an API and display a new quote each time a button is clicked. Use a component to render the quote.
-Accordion Component:
+## 4. Random Quote Generator
+- App that fetches quotes from an API and displays a new quote each time a button is clicked.
 
-Implement an accordion component that expands/collapses content when clicked.
-Tabs Navigation:
+## 5. Accordion Component
+- Accordion component that expands/collapses content when clicked.
 
-Create a simple tab navigation component where clicking on a tab displays the corresponding content.
-Emoji Rating Component:
+## 6. Tabs Navigation
+- Simple tab navigation component where clicking on a tab displays the corresponding content.
 
-Build a rating component using emojis. Users can click on an emoji to rate something.
-Progress Bar:
+## 7. Emoji Rating Component
+- Rating component using emojis. Users can click on an emoji to rate something.
 
-Develop a progress bar component that fills up or decreases based on a percentage value passed as a prop.
-Card Flip Animation:
+## 8. Progress Bar
+- Progress bar component that fills up or decreases based on a percentage value passed as a prop.
 
-Design a card component with a flip animation that reveals additional content when clicked.
-Image Carousel:
+## 9. Card Flip Animation
+- Card component with a flip animation that reveals additional content when clicked.
 
-Build a component that displays a set of images in a carousel. Users can navigate through images.
-Timer App:
+## 10. Image Carousel
+- Component that displays a set of images in a carousel. Users can navigate through images.
 
-Create a simple timer app that counts down from a specified time.
-Input Form Validation:
+## 11. Timer App
+- Simple timer app that counts down from a specified time.
 
-Implement an input form component with validation. Display error messages based on user input.
-Weather App:
+## 12. Input Form Validation
+- Input form component with validation. Displays error messages based on user input.
 
-Fetch weather data from an API and display it using a component. Allow users to toggle between different locations.
-Search Filter:
+## 13. Weather App
+- App that fetches weather data from an API and displays it. Users can toggle between different locations.
 
-Design a component that filters a list of items based on user input in a search bar.
-User Profile Card:
+## 14. Search Filter
+- Component that filters a list of items based on user input in a search bar.
 
-Create a user profile card component with user details passed as props.
+## 15. User Profile Card
+- User profile card component with user details passed as props.
