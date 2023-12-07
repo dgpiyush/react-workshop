@@ -9,7 +9,7 @@
 - **Definition:** Blocks of reusable code.
 - **Scope:** Local and global scopes. Variables defined inside functions are local.
 - **Declaration:** `function` keyword.
-- **Highorder & Callback:** A function that takes function as a parameter is Highorder and the function we are passing to the function is Callback function.
+- **Highorder & Callback:** A function that takes function as a argument is Highorder and the function we are passing to the function is Callback function.
 
 ## Arrays and Objects
 - **Arrays:** Ordered lists of values. Index starts at 0.
